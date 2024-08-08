@@ -83,7 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For any queries or suggestions, please reach out to [Your Name] at [your.email@example.com].
+For any queries or suggestions, please reach out to [Monis Ahmed] at [monisahmedrizvi@gmail.com].
 
 ---
 
